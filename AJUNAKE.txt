@@ -1,1 +1,3 @@
 AJUNAKE
+Your repo url in Github 
+Your answer for What is the difference between add, commit, and push? -- add = staging. commit = push in local hardware & push = push to online repository
